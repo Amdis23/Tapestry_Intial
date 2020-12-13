@@ -1,7 +1,4 @@
-#Hello, if you're here then Prof. Manoj gave you this link to understand the preliminary code.
-#The main code is much more diverse and is continously changing so try to understand the overall skeleton of this basic code by 
-first reading the arxiv and medirxiv paper.
- 
+#Hello, if you found any bug, feel free to contact me at banerjeeankit12345@gmail.com
 
 # Compressed Sensing Algorithms for Pooled Sampling and Testing using qPCR 
 Code for the algorithms used in the following paper:
